@@ -23,6 +23,6 @@ switch (number) {
         alert('Зима');
         break;
     default:
-        alert('НЕМА ТАКОЇ ПОРИ РОКУ !');
+        alert('Н А Х У Й пішов !');
         break;
 }
